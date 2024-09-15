@@ -22,6 +22,7 @@ Este é uma aplicação simples de Lista de Tarefas que ajuda você a organizar 
 <br>
 
 <div align="center">
-![image](https://github.com/user-attachments/assets/1f01bc38-4ee1-4f19-a439-a4b997245b0b)
+![image](https://github.com/user-attachments/assets/e45a84c3-73e5-452f-befd-b6d6e98f093d)
+
 </div>
 
