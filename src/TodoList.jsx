@@ -52,7 +52,7 @@ function TodoList() {
                     onChange={(e) => { setNovoItem(e.target.value) }}
                     placeholder="Adicione uma tarefa"
                 />
-                <button className="add" type="submit">Add</button>
+                <button className="add" type="submit">Adicionar</button>
             </form>
             <div className="listaTarefas">
                 <div style={{ textAlign: 'center' }}>
