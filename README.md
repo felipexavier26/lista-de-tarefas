@@ -3,7 +3,7 @@
 Este é uma aplicação simples de Lista de Tarefas que ajuda você a organizar seus itens essenciais de forma prática e conveniente.
 
 <h1>Link do Projeto</h1>
-https://lista-de-tarefas-murex.vercel.app/
+<a href="https://lista-de-tarefas-murex.vercel.app/" rel="nofollow"><strong>➥ Projeto</strong></a></p>
 
 <h1>Funcionalidades</h1>
 <li>Adicionar novas tarefas.</li>
